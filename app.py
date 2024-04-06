@@ -1,3 +1,5 @@
+pip install skfuzzy
+
 import streamlit as st
 import numpy as np
 import skfuzzy as fuzz

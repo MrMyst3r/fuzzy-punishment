@@ -1,3 +1,5 @@
+pip install git+https://github.com/scikit-fuzzy/scikit-fuzzy.git
+
 import streamlit as st
 import numpy as np
 import skfuzzy as fuzz

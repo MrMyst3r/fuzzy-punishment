@@ -1,4 +1,4 @@
 streamlit
 numpy
-skfuzzy
+scikit-fuzzy
 matplotlib
